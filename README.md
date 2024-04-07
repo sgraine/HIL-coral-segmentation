@@ -1,11 +1,11 @@
-# Collaborative Segmentation of Multi-species Coral Imagery with Human-in-the-Loop
+# Human-in-the-Loop Segmentation of Multi-species Coral Imagery
 
-The official repository for the paper: "Collaborative Segmentation of Multi-species Coral Imagery with Human-in-the-Loop".
+The official repository for the paper: "Human-in-the-Loop Segmentation of Multi-species Coral Imagery".
 
 If this repository contributes to your research, please consider citing the publication below.
 
 ```
-Raine, S., Marchant, R., Kusy, B., Maire, F., Suenderhauf, N. and Fischer, T. 2024. Collaborative Segmentation of Multi-species Coral Imagery with Human-in-the-Loop.
+Raine, S., Marchant, R., Kusy, B., Maire, F., Suenderhauf, N. and Fischer, T. 2024. Human-in-the-Loop Segmentation of Multi-species Coral Imagery.  
 ```
 
 ### Bibtex
@@ -28,7 +28,7 @@ We suggest using the Mamba (or Anaconda) package manager to install dependencies
 1. Download Mamba
 2. Create environment from .yml provided - run the following commands:
 
-```mamba env create -f collab-seg.yml```
+```mamba env create -f hil-seg.yml```
 
 
 <a name="quick-start"></a>
