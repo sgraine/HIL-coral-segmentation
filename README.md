@@ -1,6 +1,6 @@
 # Human-in-the-Loop Segmentation of Multi-species Coral Imagery
 
-The official repository for the paper: "Human-in-the-Loop Segmentation of Multi-species Coral Imagery".
+The official repository for the paper: "Human-in-the-Loop Segmentation of Multi-species Coral Imagery".  Code coming soon!
 
 If this repository contributes to your research, please consider citing the publication below.
 
