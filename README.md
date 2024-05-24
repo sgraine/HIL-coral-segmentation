@@ -30,7 +30,7 @@ Watch our video explaining the approach here: \[[Video](https://www.youtube.com/
 ## Installation
 We suggest using the Mamba (or Anaconda) package manager to install dependencies.
 
-1. Follow instructions at \[[Denoising ViT]([https://arxiv.org/abs/2404.09406](https://github.com/Jiawei-Yang/Denoising-ViT))]
+1. Follow instructions at \[[Denoising ViT](https://github.com/Jiawei-Yang/Denoising-ViT)].
 2. Additionally install faiss-gpu, torchmetrics, tqdm:
 
 ```mamba install -c pytorch faiss-gpu```
