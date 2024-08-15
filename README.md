@@ -80,6 +80,7 @@ Example 2: This is for the UCSD Mosaics dataset, assuming grid-spaced labels, sa
 ```python point_label_propagation.py -i "mosaics/test/images/" -g "mosaics/test/labels/" -v "vis" -p "out-masks" -n 100```
 
 The UCSD Mosaics dataset can be downloaded from the authors of the CoralSeg paper: \[[Dataset](https://sites.google.com/a/unizar.es/semanticseg/home)]
+Note that in this work, we remove a number of images where the ground truth mask has been corrupted.  A list of these corrupted files is in CorruptedImages.txt. 
 
 <a name="acknowledgements"></a>
 ## Acknowledgements
